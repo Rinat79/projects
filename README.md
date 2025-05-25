@@ -27,7 +27,7 @@
 ## Инструменты
 - **Разработка:** Jupyter Notebook, VS Code
 - **Языки и библиотеки:** Python (requests, pandas, time, json, sqlalchemy), ydata_profiling
-- **Базы данных:** PostgreSQL (DBeaver)
+- **Базы данных:** PostgreSQL, DBeaver, SQL
 - **BI-системы:** Yandex Datalens, Apache Superset
 
 ## Результаты и выводы
