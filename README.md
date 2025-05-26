@@ -22,7 +22,7 @@
 
 3. **Анализ и визуализация:**
    - Создание дополнительных атрибутов (Datalens)
-   - Визуализация в [Datalens](https://datalens.yandex/u9mqftd780pog) и [Apache Superset] (http://82.202.131.203:8088/superset/dashboard/p/zvlnwdlg8XR/) Username - User1 Password - |kJ9R2
+   - Визуализация в [Datalens](https://datalens.yandex/u9mqftd780pog) и [Apache Superset](http://82.202.131.203:8088/superset/dashboard/p/zvlnwdlg8XR/) Username - User1 Password - |kJ9R2
 
 ## Инструменты
 - **Разработка:** Jupyter Notebook, VS Code
